@@ -6,7 +6,7 @@ class Dog
             puts "Mutt"
         end
 
-        
+
     end
 
 end
